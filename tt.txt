@@ -1,4 +1,4 @@
 inicio{
-"host":"0B75E15EEA1A2D2B243F2507",
-"porta":"60000"
+"host":"8BB4669878E03629C952E70927F83F09081FFE",
+"porta":"530"
 }fim
